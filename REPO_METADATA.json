@@ -1,29 +1,25 @@
 {
   "repoName": "product-note-research-map",
-  "description": "Maps standalone product note pages as research notes, not final review verdicts or shopping pages.",
-  "homepage": "https://www.betterbuylab.com",
+  "shortDescription": "Resource map for Better Buy Lab product notes, review-language boundaries, related buying guides, and research-note limitations.",
+  "description": "Resource map for Better Buy Lab product notes, review-language boundaries, related buying guides, and research-note limitations.",
+  "homepage": "https://www.betterbuylab.com/",
   "topics": [
     "betterbuylab",
-    "editorial-policy",
-    "verification",
-    "affiliate-disclosure",
-    "buying-guides",
     "product-research",
-    "trust",
-    "compliance"
+    "buying-guides",
+    "product-notes",
+    "editorial-policy",
+    "verification-policy",
+    "review-boundaries",
+    "consumer-tech",
+    "research-map",
+    "trust"
   ],
   "visibility": "public",
   "pinnedRecommendation": false,
+  "profilePurpose": "Product note index and language boundaries separate from shopping pages.",
   "primaryWebsitePages": [
-    "/methodology",
-    "/verification-policy",
-    "/affiliate-disclosure",
-    "/editorial-policy"
+    "/reviews"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources",
-    "shopping-verification-checklist",
-    "affiliate-scope-and-disclosure-map"
-  ],
-  "complianceNotes": "Policy-focused; no commerce promotion."
+  "complianceNotes": "Notes are research context; not checkout-ready unless verified on site."
 }
