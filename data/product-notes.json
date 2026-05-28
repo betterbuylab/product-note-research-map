@@ -1,0 +1,782 @@
+[
+  {
+    "path": "/reviews/acer-aspire-3-15",
+    "url": "https://www.betterbuylab.com/reviews/acer-aspire-3-15",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/acer-nitro-xv275k-p5biipruzx",
+    "url": "https://www.betterbuylab.com/reviews/acer-nitro-xv275k-p5biipruzx",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/acer-swift-go-14-2024",
+    "url": "https://www.betterbuylab.com/reviews/acer-swift-go-14-2024",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/allswell-hybrid",
+    "url": "https://www.betterbuylab.com/reviews/allswell-hybrid",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/anker-soundcore-p31i",
+    "url": "https://www.betterbuylab.com/reviews/anker-soundcore-p31i",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/anker-soundcore-space-a40",
+    "url": "https://www.betterbuylab.com/reviews/anker-soundcore-space-a40",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/anker-soundcore-space-q45",
+    "url": "https://www.betterbuylab.com/reviews/anker-soundcore-space-q45",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/aoc-q27g3xmn",
+    "url": "https://www.betterbuylab.com/reviews/aoc-q27g3xmn",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/aoc-q27g40xmn",
+    "url": "https://www.betterbuylab.com/reviews/aoc-q27g40xmn",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/apple-airpods-max-2",
+    "url": "https://www.betterbuylab.com/reviews/apple-airpods-max-2",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/apple-airpods-pro-3",
+    "url": "https://www.betterbuylab.com/reviews/apple-airpods-pro-3",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/apple-macbook-air-13-m4-2025",
+    "url": "https://www.betterbuylab.com/reviews/apple-macbook-air-13-m4-2025",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/apple-macbook-air-15-m4-2025",
+    "url": "https://www.betterbuylab.com/reviews/apple-macbook-air-15-m4-2025",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/astro-a50-x",
+    "url": "https://www.betterbuylab.com/reviews/astro-a50-x",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/asus-rog-swift-oled-pg27ucdm",
+    "url": "https://www.betterbuylab.com/reviews/asus-rog-swift-oled-pg27ucdm",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/asus-rog-zephyrus-g14",
+    "url": "https://www.betterbuylab.com/reviews/asus-rog-zephyrus-g14",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/asus-tuf-gaming-a16-advantage-edition",
+    "url": "https://www.betterbuylab.com/reviews/asus-tuf-gaming-a16-advantage-edition",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/asus-vivobook-16-m1605",
+    "url": "https://www.betterbuylab.com/reviews/asus-vivobook-16-m1605",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/asus-zenbook-a14-ux3407",
+    "url": "https://www.betterbuylab.com/reviews/asus-zenbook-a14-ux3407",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/asus-zenwifi-bq16-pro",
+    "url": "https://www.betterbuylab.com/reviews/asus-zenwifi-bq16-pro",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/asus-zenwifi-et9",
+    "url": "https://www.betterbuylab.com/reviews/asus-zenwifi-et9",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/audeze-maxwell-2",
+    "url": "https://www.betterbuylab.com/reviews/audeze-maxwell-2",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/beautiful-6qt-digital",
+    "url": "https://www.betterbuylab.com/reviews/beautiful-6qt-digital",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/benq-th671st",
+    "url": "https://www.betterbuylab.com/reviews/benq-th671st",
+    "category": "home-theater"
+  },
+  {
+    "path": "/reviews/black-decker-quiet-blender-with-cyclone-glass-jar",
+    "url": "https://www.betterbuylab.com/reviews/black-decker-quiet-blender-with-cyclone-glass-jar",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/boring-hybrid",
+    "url": "https://www.betterbuylab.com/reviews/boring-hybrid",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/bose-quietcomfort-ultra-headphones-2nd-gen",
+    "url": "https://www.betterbuylab.com/reviews/bose-quietcomfort-ultra-headphones-2nd-gen",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/braun-triforce-power-pro-jb9041bk",
+    "url": "https://www.betterbuylab.com/reviews/braun-triforce-power-pro-jb9041bk",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/breville-smart-oven-air-fryer-compact",
+    "url": "https://www.betterbuylab.com/reviews/breville-smart-oven-air-fryer-compact",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/breville-smart-oven-air-fryer-pro-bov900bss",
+    "url": "https://www.betterbuylab.com/reviews/breville-smart-oven-air-fryer-pro-bov900bss",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/brooklyn-bedding-signature-hybrid",
+    "url": "https://www.betterbuylab.com/reviews/brooklyn-bedding-signature-hybrid",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/casper-snow",
+    "url": "https://www.betterbuylab.com/reviews/casper-snow",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/chefman-obliterator",
+    "url": "https://www.betterbuylab.com/reviews/chefman-obliterator",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/corsi-rosenthal-box",
+    "url": "https://www.betterbuylab.com/reviews/corsi-rosenthal-box",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/cosori-turboblaze",
+    "url": "https://www.betterbuylab.com/reviews/cosori-turboblaze",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/coway-airmega-200m",
+    "url": "https://www.betterbuylab.com/reviews/coway-airmega-200m",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/cuisinart-air-fryer-toa-70",
+    "url": "https://www.betterbuylab.com/reviews/cuisinart-air-fryer-toa-70",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/cyberghost",
+    "url": "https://www.betterbuylab.com/reviews/cyberghost",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725df",
+    "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw2725df",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725dm",
+    "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw2725dm",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725q",
+    "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw2725q",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/dell-alienware-aw3225dm",
+    "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw3225dm",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/dell-alienware-aw3425dwm",
+    "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw3425dwm",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/dell-s2725qc",
+    "url": "https://www.betterbuylab.com/reviews/dell-s2725qc",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/dell-u2725qe",
+    "url": "https://www.betterbuylab.com/reviews/dell-u2725qe",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/dreo-chefmaker",
+    "url": "https://www.betterbuylab.com/reviews/dreo-chefmaker",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/dyson-v12-detect-slim",
+    "url": "https://www.betterbuylab.com/reviews/dyson-v12-detect-slim",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/dyson-v15-detect",
+    "url": "https://www.betterbuylab.com/reviews/dyson-v15-detect",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/eero-6",
+    "url": "https://www.betterbuylab.com/reviews/eero-6",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/eero-max-7",
+    "url": "https://www.betterbuylab.com/reviews/eero-max-7",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/eufy-e20",
+    "url": "https://www.betterbuylab.com/reviews/eufy-e20",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/expressvpn",
+    "url": "https://www.betterbuylab.com/reviews/expressvpn",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/ge-adhl35la",
+    "url": "https://www.betterbuylab.com/reviews/ge-adhl35la",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/ge-apyr50lc",
+    "url": "https://www.betterbuylab.com/reviews/ge-apyr50lc",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/helix-midnight-luxe-2025",
+    "url": "https://www.betterbuylab.com/reviews/helix-midnight-luxe-2025",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/hisense-ax5140q-qx5140q",
+    "url": "https://www.betterbuylab.com/reviews/hisense-ax5140q-qx5140q",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/hisense-m2-pro",
+    "url": "https://www.betterbuylab.com/reviews/hisense-m2-pro",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/hisense-px3-pro",
+    "url": "https://www.betterbuylab.com/reviews/hisense-px3-pro",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/hisense-qd6qf-65-inch",
+    "url": "https://www.betterbuylab.com/reviews/hisense-qd6qf-65-inch",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/hisense-qd6qf",
+    "url": "https://www.betterbuylab.com/reviews/hisense-qd6qf",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/hisense-u65qf",
+    "url": "https://www.betterbuylab.com/reviews/hisense-u65qf",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/hyperx-cloud-alpha-wireless",
+    "url": "https://www.betterbuylab.com/reviews/hyperx-cloud-alpha-wireless",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/irobot-roomba-max-705",
+    "url": "https://www.betterbuylab.com/reviews/irobot-roomba-max-705",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/jbl-bar-1000mk2",
+    "url": "https://www.betterbuylab.com/reviews/jbl-bar-1000mk2",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/keychron-q5-max-q-max-series",
+    "url": "https://www.betterbuylab.com/reviews/keychron-q5-max-q-max-series",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/keychron-v1-ultra-8k",
+    "url": "https://www.betterbuylab.com/reviews/keychron-v1-ultra-8k",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/keychron-v5-max-v-max-series",
+    "url": "https://www.betterbuylab.com/reviews/keychron-v5-max-v-max-series",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/koorui-s2741lm",
+    "url": "https://www.betterbuylab.com/reviews/koorui-s2741lm",
+    "category": "monitors"
+  },
+  {
+    "path": "/reviews/lemokey-p1-he",
+    "url": "https://www.betterbuylab.com/reviews/lemokey-p1-he",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/lenovo-chromebook-duet-5",
+    "url": "https://www.betterbuylab.com/reviews/lenovo-chromebook-duet-5",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/levoit-core-200s",
+    "url": "https://www.betterbuylab.com/reviews/levoit-core-200s",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/levoit-core-600s",
+    "url": "https://www.betterbuylab.com/reviews/levoit-core-600s",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/lg-24gs65f-b",
+    "url": "https://www.betterbuylab.com/reviews/lg-24gs65f-b",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/lg-27gx790b-b",
+    "url": "https://www.betterbuylab.com/reviews/lg-27gx790b-b",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/lg-b5-oled",
+    "url": "https://www.betterbuylab.com/reviews/lg-b5-oled",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/lg-c5-oled",
+    "url": "https://www.betterbuylab.com/reviews/lg-c5-oled",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/lg-g6-65-inch",
+    "url": "https://www.betterbuylab.com/reviews/lg-g6-65-inch",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/lg-g6-oled",
+    "url": "https://www.betterbuylab.com/reviews/lg-g6-oled",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/logitech-g-pro-x-superlight-2",
+    "url": "https://www.betterbuylab.com/reviews/logitech-g-pro-x-superlight-2",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/logitech-g-pro-x2-superstrike",
+    "url": "https://www.betterbuylab.com/reviews/logitech-g-pro-x2-superstrike",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/logitech-g305-lightspeed",
+    "url": "https://www.betterbuylab.com/reviews/logitech-g305-lightspeed",
+    "category": "reviews"
+  },
+  {
+    "path": "/reviews/logitech-g502-x-plus",
+    "url": "https://www.betterbuylab.com/reviews/logitech-g502-x-plus",
+    "category": "reviews"
+  },
+  {
+    "path": "/reviews/logitech-g715",
+    "url": "https://www.betterbuylab.com/reviews/logitech-g715",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/mchose-l7-pro",
+    "url": "https://www.betterbuylab.com/reviews/mchose-l7-pro",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/microsoft-surface-laptop-7-15-inch",
+    "url": "https://www.betterbuylab.com/reviews/microsoft-surface-laptop-7-15-inch",
+    "category": "laptops"
+  },
+  {
+    "path": "/reviews/midea-mad35s1qwt",
+    "url": "https://www.betterbuylab.com/reviews/midea-mad35s1qwt",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/mila-air-3",
+    "url": "https://www.betterbuylab.com/reviews/mila-air-3",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/mova-p10-pro-ultra",
+    "url": "https://www.betterbuylab.com/reviews/mova-p10-pro-ultra",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/mova-p50-pro-ultra",
+    "url": "https://www.betterbuylab.com/reviews/mova-p50-pro-ultra",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/mullvad",
+    "url": "https://www.betterbuylab.com/reviews/mullvad",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/nakamichi-shockwafe-wireless",
+    "url": "https://www.betterbuylab.com/reviews/nakamichi-shockwafe-wireless",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/nexigo-pj40-pro",
+    "url": "https://www.betterbuylab.com/reviews/nexigo-pj40-pro",
+    "category": "home-theater"
+  },
+  {
+    "path": "/reviews/ninja-flip-sp151",
+    "url": "https://www.betterbuylab.com/reviews/ninja-flip-sp151",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/ninja-foodi-dt201",
+    "url": "https://www.betterbuylab.com/reviews/ninja-foodi-dt201",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/ninja-foodi-dz071",
+    "url": "https://www.betterbuylab.com/reviews/ninja-foodi-dz071",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/ninja-foodi-dz550",
+    "url": "https://www.betterbuylab.com/reviews/ninja-foodi-dz550",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/ninja-pro-af141",
+    "url": "https://www.betterbuylab.com/reviews/ninja-pro-af141",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/nordvpn",
+    "url": "https://www.betterbuylab.com/reviews/nordvpn",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/nothing-ear",
+    "url": "https://www.betterbuylab.com/reviews/nothing-ear",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/nutribullet-triple-prep-system",
+    "url": "https://www.betterbuylab.com/reviews/nutribullet-triple-prep-system",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/nuwave-oxypure",
+    "url": "https://www.betterbuylab.com/reviews/nuwave-oxypure",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/private-internet-access",
+    "url": "https://www.betterbuylab.com/reviews/private-internet-access",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/probreeze-pb-03",
+    "url": "https://www.betterbuylab.com/reviews/probreeze-pb-03",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/proton-vpn",
+    "url": "https://www.betterbuylab.com/reviews/proton-vpn",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/purple-mattress",
+    "url": "https://www.betterbuylab.com/reviews/purple-mattress",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/purple-restoreplus-hybrid",
+    "url": "https://www.betterbuylab.com/reviews/purple-restoreplus-hybrid",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/razer-blackshark-v3-pro",
+    "url": "https://www.betterbuylab.com/reviews/razer-blackshark-v3-pro",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/razer-naga-v2-pro",
+    "url": "https://www.betterbuylab.com/reviews/razer-naga-v2-pro",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/razer-pro-type-ultra",
+    "url": "https://www.betterbuylab.com/reviews/razer-pro-type-ultra",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/razer-viper-v3-pro",
+    "url": "https://www.betterbuylab.com/reviews/razer-viper-v3-pro",
+    "category": "keyboards"
+  },
+  {
+    "path": "/reviews/roborock-s8-maxv-ultra",
+    "url": "https://www.betterbuylab.com/reviews/roborock-s8-maxv-ultra",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/saatva-latex-hybrid",
+    "url": "https://www.betterbuylab.com/reviews/saatva-latex-hybrid",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/samsung-bespoke-ai-jet-ultra",
+    "url": "https://www.betterbuylab.com/reviews/samsung-bespoke-ai-jet-ultra",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/samsung-galaxy-book4",
+    "url": "https://www.betterbuylab.com/reviews/samsung-galaxy-book4",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/samsung-galaxy-buds4-pro",
+    "url": "https://www.betterbuylab.com/reviews/samsung-galaxy-buds4-pro",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/samsung-hw-q990f",
+    "url": "https://www.betterbuylab.com/reviews/samsung-hw-q990f",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/samsung-s90f-oled",
+    "url": "https://www.betterbuylab.com/reviews/samsung-s90f-oled",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/samsung-s95f-65-inch",
+    "url": "https://www.betterbuylab.com/reviews/samsung-s95f-65-inch",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/samsung-s95f-oled",
+    "url": "https://www.betterbuylab.com/reviews/samsung-s95f-oled",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/sennheiser-hd-560s-mic",
+    "url": "https://www.betterbuylab.com/reviews/sennheiser-hd-560s-mic",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/sennheiser-hdb-630",
+    "url": "https://www.betterbuylab.com/reviews/sennheiser-hdb-630",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/shark-stratos-cordless-iz862h",
+    "url": "https://www.betterbuylab.com/reviews/shark-stratos-cordless-iz862h",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/silk-and-snow-mattress",
+    "url": "https://www.betterbuylab.com/reviews/silk-and-snow-mattress",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/sonos-arc-ultra",
+    "url": "https://www.betterbuylab.com/reviews/sonos-arc-ultra",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/sonos-beam-gen-2",
+    "url": "https://www.betterbuylab.com/reviews/sonos-beam-gen-2",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/sony-bravia-8-oled",
+    "url": "https://www.betterbuylab.com/reviews/sony-bravia-8-oled",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/sony-wf-1000xm6",
+    "url": "https://www.betterbuylab.com/reviews/sony-wf-1000xm6",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/sony-wh-1000xm4",
+    "url": "https://www.betterbuylab.com/reviews/sony-wh-1000xm4",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/sony-wh-1000xm6",
+    "url": "https://www.betterbuylab.com/reviews/sony-wh-1000xm6",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/steelseries-arctis-nova-7-wireless",
+    "url": "https://www.betterbuylab.com/reviews/steelseries-arctis-nova-7-wireless",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/surfshark-vpn",
+    "url": "https://www.betterbuylab.com/reviews/surfshark-vpn",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/tcl-55qm6k",
+    "url": "https://www.betterbuylab.com/reviews/tcl-55qm6k",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-qm5k-65-inch",
+    "url": "https://www.betterbuylab.com/reviews/tcl-qm5k-65-inch",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-qm6k-65-inch",
+    "url": "https://www.betterbuylab.com/reviews/tcl-qm6k-65-inch",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-qm6k",
+    "url": "https://www.betterbuylab.com/reviews/tcl-qm6k",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-qm7k-65-inch",
+    "url": "https://www.betterbuylab.com/reviews/tcl-qm7k-65-inch",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-qm7k",
+    "url": "https://www.betterbuylab.com/reviews/tcl-qm7k",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-qm8k-65-inch",
+    "url": "https://www.betterbuylab.com/reviews/tcl-qm8k-65-inch",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-qm8k",
+    "url": "https://www.betterbuylab.com/reviews/tcl-qm8k",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/tcl-s551g",
+    "url": "https://www.betterbuylab.com/reviews/tcl-s551g",
+    "category": "tv"
+  },
+  {
+    "path": "/reviews/technics-eah-az100",
+    "url": "https://www.betterbuylab.com/reviews/technics-eah-az100",
+    "category": "headphones"
+  },
+  {
+    "path": "/reviews/tineco-pure-one-s11",
+    "url": "https://www.betterbuylab.com/reviews/tineco-pure-one-s11",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/tp-link-archer-be550",
+    "url": "https://www.betterbuylab.com/reviews/tp-link-archer-be550",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/tp-link-deco-be63",
+    "url": "https://www.betterbuylab.com/reviews/tp-link-deco-be63",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/tp-link-deco-xe5300-xe75",
+    "url": "https://www.betterbuylab.com/reviews/tp-link-deco-xe5300-xe75",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/tuft-and-needle-mint",
+    "url": "https://www.betterbuylab.com/reviews/tuft-and-needle-mint",
+    "category": "sleep"
+  },
+  {
+    "path": "/reviews/typhur-sync-oven",
+    "url": "https://www.betterbuylab.com/reviews/typhur-sync-oven",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/valerion-visionmaster-max",
+    "url": "https://www.betterbuylab.com/reviews/valerion-visionmaster-max",
+    "category": "home-theater"
+  },
+  {
+    "path": "/reviews/vitamix-explorian-e310",
+    "url": "https://www.betterbuylab.com/reviews/vitamix-explorian-e310",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/vitamix-propel-510",
+    "url": "https://www.betterbuylab.com/reviews/vitamix-propel-510",
+    "category": "kitchen"
+  },
+  {
+    "path": "/reviews/waykar-pd160b",
+    "url": "https://www.betterbuylab.com/reviews/waykar-pd160b",
+    "category": "air-quality"
+  },
+  {
+    "path": "/reviews/windscribe",
+    "url": "https://www.betterbuylab.com/reviews/windscribe",
+    "category": "networking"
+  },
+  {
+    "path": "/reviews/wyze-cordless-vacuum-s",
+    "url": "https://www.betterbuylab.com/reviews/wyze-cordless-vacuum-s",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/wyze-robot-vacuum",
+    "url": "https://www.betterbuylab.com/reviews/wyze-robot-vacuum",
+    "category": "vacuums"
+  },
+  {
+    "path": "/reviews/xgimi-horizon-20-max",
+    "url": "https://www.betterbuylab.com/reviews/xgimi-horizon-20-max",
+    "category": "home-theater"
+  },
+  {
+    "path": "/reviews/xgimi-horizon-20",
+    "url": "https://www.betterbuylab.com/reviews/xgimi-horizon-20",
+    "category": "home-theater"
+  }
+]

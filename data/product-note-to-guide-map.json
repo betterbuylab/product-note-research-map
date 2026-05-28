@@ -1,0 +1,54 @@
+{
+  "tv": [
+    "/tv/best-tvs",
+    "/tv/best-oled-tvs",
+    "/tv/best-gaming-tvs",
+    "/tv/best-65-inch-tvs",
+    "/tv/best-tv-under-500"
+  ],
+  "monitors": [
+    "/monitors/best-gaming-monitors",
+    "/monitors/best-4k-monitors",
+    "/monitors/best-budget-gaming-monitors"
+  ],
+  "headphones": [
+    "/headphones/best-noise-canceling-headphones",
+    "/headphones/best-wireless-earbuds",
+    "/headphones/best-gaming-headsets",
+    "/audio/best-soundbars"
+  ],
+  "laptops": [
+    "/laptops/best-college-laptops",
+    "/laptops/best-budget-laptops"
+  ],
+  "home-theater": [
+    "/home-theater/best-projectors"
+  ],
+  "networking": [
+    "/networking/best-mesh-wifi",
+    "/networking/best-routers-large-home",
+    "/vpn/best-vpn-streaming",
+    "/vpn/best-cheap-vpn"
+  ],
+  "kitchen": [
+    "/kitchen/best-air-fryers",
+    "/kitchen/best-toaster-oven-air-fryer",
+    "/kitchen/best-blenders-smoothies"
+  ],
+  "vacuums": [
+    "/vacuums/best-cordless-vacuums",
+    "/robot-vacuums/best-robot-vacuum-pet-hair"
+  ],
+  "air-quality": [
+    "/air-quality/best-air-purifiers-allergies",
+    "/air-quality/best-dehumidifiers-basement"
+  ],
+  "sleep": [
+    "/sleep/best-mattress-side-sleepers",
+    "/sleep/best-cooling-mattress"
+  ],
+  "keyboards": [
+    "/keyboards/best-mechanical-keyboards",
+    "/mice/best-wireless-gaming-mouse"
+  ]
+}
